@@ -2,11 +2,11 @@ name: mybinder
 channels:
   - conda-forge
 dependencies:
-  - python=3.12.12
-  - numpy=2.2.0
-  - matplotlib=3.10.8
+  - python=3.11
+  - numpy=1.26
+  - matplotlib=3.8
   - gdsfactory=9.23.0
-  - ubcpdk= 3.3.2
+  - ubcpdk=3.3.2
   - pip
   - pip:
       - dash==4.0.0
