@@ -3,10 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - numpy=1.26
-  - matplotlib=3.8
-  - gdsfactory=9.23.0
-  - ubcpdk=3.3.2
   - pip
   - pip:
+      - numpy
+      - matplotlib
+      - gdsfactory==9.23.0
+      - ubcpdk==3.3.2
       - dash==4.0.0
