@@ -9,4 +9,5 @@ dependencies:
       - matplotlib
       - gdsfactory==9.23.0
       - ubcpdk==3.3.2
+      - sax==0.16.5
       - dash==4.0.0

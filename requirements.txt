@@ -1,4 +1,0 @@
-gdsfactoryn == 9.23.0
-matplotlib == 3.10.8
-numpy ==  2.2.0
-ubcpdk == 3.3.2
